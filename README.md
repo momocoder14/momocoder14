@@ -32,7 +32,7 @@ I'm a self-taught passionate FullStack developer from Gambia GM
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/_codewithmo">
   <img align="right" alt="Momodou Jammeh | Twitter" width="21px" src="https://raw.githubusercontent.com/momocoder14/momocoder14/master/assets/x-twitter.svg" />
 </a>
 
