@@ -26,7 +26,7 @@ I'm a self-taught passionate FullStack developer from Gambia GM
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=coconut-cosmetics&theme=buefy" />
 </a>
 <a href="https://github.com/momocoder14/codewithmo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=codewithmo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=momocoder13&theme=buefy" />
 </a>
 
 <br />
