@@ -1,4 +1,4 @@
-<p align="center"><a href="https://momocoder14.github.io"><img width="30px" alt="Hello, I'm Momodou. I am a FullStack Developer!" src="./assets/momocoder.png" /></a></p>
+<p align="center"><a href="https://momocoder14.github.io"><img width="80%" alt="Hello, I'm Momodou. I am a FullStack Developer!" src="./assets/momocoder.png" /></a></p>
 
 <br />
 
