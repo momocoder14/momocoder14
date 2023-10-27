@@ -32,7 +32,7 @@ I'm a self-taught passionate FullStack developer from Gambia GM
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=github-readme-stats&theme=synthwave" />
 </a>
 <a href="https://github.com/momocoder14/momocoder14.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=codewithmo&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=Simple-portfolio&theme=synthwave" />
 </a>
 
 <br />
