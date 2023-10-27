@@ -31,7 +31,7 @@ I'm a self-taught passionate FullStack developer from Gambia GM
 <a href="https://github.com/momocoder14/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=github-readme-stats&theme=synthwave" />
 </a>
-<a href="https://github.com/momocoder14/momocoder14.github.io">
+<a href="https://github.com/momocoder14/Simple-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=Simple-portfolio&theme=synthwave" />
 </a>
 
