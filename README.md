@@ -17,7 +17,8 @@ I'm a self-taught passionate FullStack developer from Gambia GM
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-| <a href="https://github.com/momocoder14"><img align="center" src="https://camo.githubusercontent.com/c2dd1b05c7976e419c7a5f318311ad64c8c75363b51cbbb9bcd392b26fd7a6a0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d73796e746877617665" alt="Momodou's github stats" /></a> | <a href="https://github.com/momocoder14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momocoder14&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ![Momodou's GitHub stats](https://github-readme-stats.vercel.app/api?username=momocoder14&theme=dark&show_icons=true)
+| <a href="https://github.com/momocoder14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momocoder14&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 | ------------- | ------------- |
 
