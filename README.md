@@ -17,18 +17,20 @@ I'm a self-taught passionate FullStack developer from Gambia GM
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-| ![Momodou's GitHub stats](https://github-readme-stats.vercel.app/api?username=momocoder14&theme=dark&show_icons=true)
-| <a href="https://github.com/momocoder14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=momocoder14&layout=compact&theme=buefy&hide_border=true" /></a> |
+<br>
+<br>
 
+| ![Momodou's GitHub stats](https://github-readme-stats.vercel.app/api?username=momocoder14&theme=synthwave&show_icons=true)
+| ![Momodou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momocoder14&layout=compact&theme=synthwave&hide_border=true)
 | ------------- | ------------- |
 
 #### Top Repositories
 
 <a href="https://github.com/momocoder14/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=github-readme-stats&theme=synthwave" />
 </a>
 <a href="https://github.com/momocoder14/momocoder14.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=codewithmo&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=momocoder14&repo=codewithmo&theme=synthwave" />
 </a>
 
 <br />
