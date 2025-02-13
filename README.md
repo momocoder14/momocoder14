@@ -1,28 +1,73 @@
-<h1>Hi there, <code>I am Momocoder</code></h1>
+<h1 align="center">
+  Hey there, I'm <code>Momocoder</code>! 🚀👨‍💻  
+</h1>
 
-<br />
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+  <strong>An entry-level Software Engineer with an endless passion for learning & growth</strong>
+</p>
 
-I'm a self-taught passionate Web & Mobile App developer from Gambia GM
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Full-Stack+Software+Engineer;Eager+Learner+%26+Problem+Solver;Next.js+%7C+React+Native+%7C+Spring+Boot;Building+%26+Improving+Every+Day!" alt="Typing animation">
+</p>
 
-**About me**
+---
 
-- ❤️ Coding is my love language
+## 🚀 About Me  
 
-- 💬 Ask me about anything [here](https://github.com/momocoder14/momocoder14/issues)
+I am an **entry-level Software Engineer** with a **deep passion for learning, experimenting, and improving**. I love diving into **new technologies, solving complex problems, and refining my skills** to build efficient, scalable, and user-friendly applications. Every challenge is an opportunity to **grow**, and I embrace each step of the journey toward becoming a **highly skilled engineer**.  
 
-- 💼 Porftolio [CWM](http://codewithmo.com/)
+- ❤️ **Coding is my passion, learning is my superpower**  
+- 🌱 **Constantly improving & exploring new technologies**  
+- 💡 **I thrive on solving problems & creating impactful solutions**  
+- 🏗️ **Building and experimenting with full-stack applications**  
+- 💬 **Ask me anything** [here](https://github.com/momocoder14/momocoder14/issues)  
+- 🌐 **Portfolio:** [CWM](http://codewithmo.com/)  
 
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+---
 
-<br>
-<br>
+## 🚀 Tech Stack  
 
-### ✨Visitors
+### 🖥️ Languages & Frameworks  
 
-## [![ViewCount](https://views.whatilearened.today/views/github/momocoder14/momocoder14.svg?cache=remove)](#)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,react-native,nodejs,graphql,java,spring,python,php,laravel" />
+</p>
+
+### 💾 Databases  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### 🔧 Tools & DevOps  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,linux,nginx,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=momocoder14&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=momocoder14&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=momocoder14&theme=radical" alt="Profile Summary" />
+</p>
+
+---
+
+## 🌎 Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/momocoder14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://linkedin.com/in/momocoder14"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="http://codewithmo.com/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
+
+---
 
 ⭐️ From [momocoder14](https://github.com/momocoder14)
