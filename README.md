@@ -17,6 +17,7 @@
 
 I am a **mid-level Software Engineer** with a **deep passion for learning, experimenting, and improving**. I love diving into **new technologies, solving complex problems, and refining my skills** to build efficient, scalable, and user-friendly applications. Every challenge is an opportunity to **grow**, and I embrace each step of the journey toward becoming a **highly skilled engineer**.  
 
+
 - ❤️ **Coding is my passion, learning is my superpower**  
 - 🌱 **Constantly improving & exploring new technologies**  
 - 💡 **I thrive on solving problems & creating impactful solutions**  
